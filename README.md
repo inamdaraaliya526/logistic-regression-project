@@ -21,7 +21,7 @@ Install Python, then run:
 ```bash
 python -m pip install -r requirements.txt
 python logistic_regression.py
-
+```
 
 ## Result
 Run the script and write the accuracy shown in your output here.
